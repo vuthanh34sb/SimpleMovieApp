@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="text_light_blue">#566f9a</color>
+
+    //Material SearchBar Light Theme Colors
+    <color name="searchBarIconColor">#3a3a3a</color>
+    //Base
+    <color name="searchBarPrimaryColor">#FFFFFF</color>
+    <color name="searchBarCursorColor">#8000a1ff</color>
+    <color name="searchBarDividerColor">#1F000000</color>
+
+    //Icons
+    <color name="searchBarNavIconTintColor">@color/searchBarIconColor</color>
+    <color name="searchBarMenuIconTintColor">@color/searchBarIconColor</color>
+    <color name="searchBarSearchIconTintColor">@color/searchBarIconColor</color>
+    <color name="searchBarClearIconTintColor">@color/searchBarIconColor</color>
+    <color name="searchBarBackIconTintColor">@color/searchBarIconColor</color>
+
+    //Text
+    <color name="searchBarTextColor">#DE000000</color>
+    <color name="searchBarHintColor">#42000000</color>
+    <color name="searchBarPlaceholderColor">#8A000000</color>
+    <color name="searchBarTextHighlightColor">#8000a1ff</color>
+
+    //Base
+    <color name="searchBarPrimaryColorDark">#303030</color>
+    <color name="searchBarDividerColorDark">#1FFFFFFF</color>
+
+    //Material SearchBar Dark Theme Colors
+    <color name="searchBarIconColorDark">#00a1ff</color>
+    //Icons
+    <color name="searchBarNavIconTintColorDark">@color/searchBarIconColorDark</color>
+    <color name="searchBarMenuIconTintColorDark">@color/searchBarIconColorDark</color>
+    <color name="searchBarSearchIconTintColorDark">@color/searchBarIconColorDark</color>
+    <color name="searchBarClearIconTintColorDark">@color/searchBarIconColorDark</color>
+    <color name="searchBarBackIconTintColorDark">@color/searchBarIconColorDark</color>
+
+    //Text
+    <color name="searchBarTextColorDark">#DEFFFFFF</color>
+    <color name="searchBarHintColorDark">#42FFFFFF</color>
+    <color name="searchBarPlaceholderColorDark">#8AFFFFFF</color>
+    <color name="searchBarTextHighlightColorDark">#BF00a1ff</color>
+    <color name="purple_200">#339C27B0</color>
+    <color name="purple_500">#809C27B0</color>
+    <color name="purple_700">#B39C27B0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="teal_200">#332196F3</color>
+    <color name="teal_700">#B32196F3</color>
+    <color name="black">#000000</color>
+    <color name="m_p_base_yellow">#FDB913</color>
+    <color name="m_p_base_red">#C41627</color>
+    <color name="golden_stars">#FFC619</color>
+
+</resources>
